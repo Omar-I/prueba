@@ -1,0 +1,11 @@
+crear una nueva branch:
+git checkout -b NAMEBRANCH
+
+cambiar a otra rama:
+git checkout NAMEBRANCH
+
+eliminar rama:
+git branch -b NAMEBRANCH
+
+Para fusionar otra rama a tu rama activa (por ejemplo master), se utiliza
+git merge NAMEBRANCH
