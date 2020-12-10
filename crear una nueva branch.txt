@@ -5,7 +5,7 @@ cambiar a otra rama:
 git checkout NAMEBRANCH
 
 eliminar rama:
-git branch -b NAMEBRANCH
+git branch -d NAMEBRANCH
 
 Para fusionar otra rama a tu rama activa (por ejemplo master), se utiliza
 git merge NAMEBRANCH
