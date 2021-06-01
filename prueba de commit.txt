@@ -1,6 +1,0 @@
-testing on github
-prueba 2 usando git pull
-git final
-testing v2
-Testing commit.
-"adding a SSH KEY"
